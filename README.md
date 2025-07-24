@@ -6,7 +6,7 @@ A macOS application for managing and organizing code snippets.
 
 ## Download
 
-Download the latest version from the [Releases](https://github.com/yourusername/Snippr-app/releases) page.
+Download the latest version from the [Releases](https://github.com/Ph-lo/Snippr-app/releases) page.
 
 ## Installation
 
